@@ -1,0 +1,37 @@
+body{
+    background-color: #EAF6F6 ;
+}
+
+.qr-code{
+    background-color: white;
+    display: inline-block;
+    margin: 30pc 30pc 30pc;
+    border-radius: 30px;
+    padding: 1pc;
+    max-width: fit-content;
+    align-self: center;
+}
+
+.text-container{
+    line-height: 2 rem;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    padding: 1pc;
+}
+
+p{
+    font-family: 'Roboto Mono', monospace;
+    padding: 1pc;
+    display: block;
+}
+
+img{
+    max-width: 100pc;
+    position: relative;
+    border-radius: 20px;
+    border-image-width: 100pc;
+}
